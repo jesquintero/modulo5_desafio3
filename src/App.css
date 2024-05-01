@@ -1,0 +1,21 @@
+.navbar {
+  padding: 15px 50px;
+}
+
+.active {
+  color: rgb(204, 20, 20);
+  font-weight: bold;
+  font-size: large;
+  text-decoration: none;
+}
+
+.no-active {
+  color: white;
+  font-weight: 300;
+  font-size: large;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
